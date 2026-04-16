@@ -1,4 +1,4 @@
-# 🚀 Youtube Downloader Pro
+#  Youtube Downloader Pro
 
 Une application moderne et minimaliste pour télécharger des vidéos YouTube en haute qualité (MP4/MP3).
 
