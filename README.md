@@ -9,7 +9,7 @@ Une application moderne et minimaliste pour télécharger des vidéos YouTube en
 - **Polyvalent :** Conversion MP3 intégrée.
 
 ## 📥 Installation
-1. Allez dans la section [Releases](lien-vers-ta-release).
+1. Allez dans la section [Releases](https://github.com/Sidoine18/Youtube-Downloader-Pro/releases/tag/v1.0.0).
 2. Téléchargez le fichier `.exe`.
 3. Lancez et profitez !
 
