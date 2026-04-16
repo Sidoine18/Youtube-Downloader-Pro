@@ -11,7 +11,7 @@ Une application moderne et minimaliste pour télécharger des vidéos YouTube en
 ## 📥 Installation
 1. Allez dans la section [Releases](https://github.com/Sidoine18/Youtube-Downloader-Pro/releases/tag/v1.0.0).
 2. Téléchargez les trois fichiers `.exe`.
-3. Lancez et profitez !
+3. Mettez les trois fichiers dans un dossier, lancez et profitez !
 
 ## 🛠️ Technologies
 - Python 3.x
